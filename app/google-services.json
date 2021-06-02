@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433899594110",
+    "firebase_url": "https://speech2text-50475-default-rtdb.firebaseio.com",
+    "project_id": "speech2text-50475",
+    "storage_bucket": "speech2text-50475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433899594110:android:59e66b6240444eb828d32f",
+        "android_client_info": {
+          "package_name": "com.example.speech2text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433899594110-rg7201dug2ah377b4n0pnkp2aa8tqdgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALcN0JaXauQslSLDybByWRLkKiZPRhV70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433899594110-rg7201dug2ah377b4n0pnkp2aa8tqdgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
